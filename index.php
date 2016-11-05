@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Gmaps</title>
 </head>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnN6TZNu6uY514_BiRbAJ3O9SzUYliqgA&sensor=false"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnN6TZNu6uY514_BiRbAJ3O9SzUYliqgA"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="gmaps.js"></script>
 <script type="text/javascript">
